@@ -3,6 +3,7 @@ layout: page
 title: Homework
 nav_order: 2
 has_children: true
+permalink: /_homework/homework
 description: >-
     List of preparatory, skill-building assignments, resources, and assessments.
 ---
