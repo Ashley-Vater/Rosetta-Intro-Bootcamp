@@ -1,32 +1,19 @@
 ---
-title: Home
+title: Rosetta Intro Bootcamp
 layout: home
 ---
+# Rosetta Intro Bootcamp PyRosetta & ML-Protein Structure Prediction and Design for New Users
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+This website organizes the learning materials and content for the Intro to PyRosetta and ML-molecular modeling. This curriculum was developed for the [2023 NSF sponsored Rosetta Research Experience for Undergraduates program](https://rosettacommons.org/about/intern)and will be adpated and itterated for a series of bootcamps in 2023 to different new user audiences. 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+**Instructors**: [Deniz Akpinaroglu](https://www.linkedin.com/in/deniz-akpinaroglu-575b1b20b/)
+Summer 2023
+Johns Hopkins University, Baltimore MD.
 
-More specifically, the created site:
+**Course Description**: PyRosetta bootcamp is targeted to new protein designers. The learning progression of this bootcamp is broken into two sections (I): (1) Rosetta protein biophysics basics/conceptual fundamentals; (2) PyRosetta structure and syntax (Pose, Score Function, Movers); (3) modeling protocols in PyRosetta (Minimization, Packing and Relaxing); (5) Introduction to Rosetta Community and coding conventions. (II): (1) ML Protein modeling algorithm architecture, training/testing basics, (2) survey of ML-based modeling options (AlphaFold, OpenFold, ColabFold, Meta’s ESM); (3) ML-based protein design (ProteinMPNN) and diffusion models (RFDiffusion). By the end of this workshop, participants will be able to apply their learnings to their protein modeling or design projects to efficiently assess the project and select the appropriate PyRosetta methods, adapt and run PyRosetta packages, troubleshoot common errors, and assess the project and prioritize the most appropriate ML-based methods, adapt and run these packages, and troubleshoot common errors. 
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+**Prerequisites**: [Python Proficency](https://developers.google.com/edu/python)
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+**Staff Contact**: The best way to reach the staff is by directly emailing Rosetta Education Committee Chair [Ashley Vater](awvater@ucdavis.edu) with curriculum or enrollment questions. 
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, just click "[use this template]"!
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+This material was created by Denize Akpinaroglu, Andrew Leaver-Fay, Jeffrey Gray, Sidhartha Chaudhury, Sergey Lyskov, Jason Labonte, Kathy Le, and Ashley Vater with the Rosetta Education Committee and many other Rosetta Commons contributors. We are pleased to share these materials freely under the -Creative Commons Attribution 2.5 liscence](https://creativecommons.org/licenses/by/2.5/). 
