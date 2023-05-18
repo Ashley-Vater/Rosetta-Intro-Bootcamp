@@ -1,6 +1,7 @@
 ---
 title: Rosetta Intro Bootcamp
 layout: home
+nav_order: 1
 ---
 # Rosetta Intro Bootcamp PyRosetta & ML-Protein Structure Prediction and Design for New Users
 
