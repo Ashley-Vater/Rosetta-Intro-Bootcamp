@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Homework 2
-parent: homework
+parent: Homework
 nav_order: 2
 ---
 
