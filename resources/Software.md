@@ -12,5 +12,5 @@ This page aims to capture a running list of software resources that will help mo
 # Software list
 
 
-*You may find that the list is incomplete and could is missing key papers please reachout to [Ashley] (awvater@ucdavis.edu) to add more cool things* 
+*You may find that the list is incomplete and could is missing key papers please reachout to [Ashley](awvater@ucdavis.edu) to add more cool things* 
 
