@@ -34,6 +34,8 @@ Johns Hopkins University, Baltimore MD.
 4. VS Code
 5. Conda Envirornments
 
+(Example Weeklong Overview Schedule)[https://docs.google.com/spreadsheets/d/1TgFuY43S0UvgKA0s6fMFHRJOl0j3FB-WT4y5f38lKcI/edit#gid=0]
+
 **Prerequisites**: [Python Proficency](https://developers.google.com/edu/python)
 
 **Staff Contact**: The best way to reach the staff is by directly emailing Rosetta Education Committee Chair [Ashley Vater](awvater@ucdavis.edu) with curriculum or enrollment questions. 
