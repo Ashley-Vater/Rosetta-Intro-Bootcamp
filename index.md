@@ -34,7 +34,7 @@ Johns Hopkins University, Baltimore MD.
 4. VS Code
 5. Conda Envirornments
 
-(Example Weeklong Overview Schedule)[https://docs.google.com/spreadsheets/d/1TgFuY43S0UvgKA0s6fMFHRJOl0j3FB-WT4y5f38lKcI/edit#gid=0]
+[Example Weeklong Overview Schedule][(https://docs.google.com/spreadsheets/d/1TgFuY43S0UvgKA0s6fMFHRJOl0j3FB-WT4y5f38lKcI/edit#gid=0)
 
 **Prerequisites**: [Python Proficency](https://developers.google.com/edu/python)
 
