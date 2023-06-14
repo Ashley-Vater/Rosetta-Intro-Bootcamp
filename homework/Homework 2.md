@@ -20,9 +20,9 @@ This is the first assignment that actually requires coding. If you have not take
 
 It should hopefully not come as a shock to anyone, but the PyRosetta+ML Code School focuses on the Python interface to the Rosetta libraries and the applications of machine learning-based methods for macromolecular modeling. For this assignment, we are going to check-in on some of your basic python skills. I would like you to channel your inner Bob Ross and write a python program that draws ASCII art pine trees.
 
-You will complete this coding challenge in the [pine trees Colab notebook] (https://github.com/Ashley-Vater/Rosetta-Intro-Bootcamp/blob/main/exercises/pine_trees.ipynb). This notebook has a set of instructions for you to follow.
+You will complete this coding challenge in the [pine trees Colab notebook](https://github.com/Ashley-Vater/Rosetta-Intro-Bootcamp/blob/main/exercises/pine_trees.ipynb). This notebook has a set of instructions for you to follow.
 
-* [ ] Complete the [pine trees Colab notebook](exercises/pine_trees.ipynb)
+* [ ] Complete the [pine trees Colab notebook](https://github.com/Ashley-Vater/Rosetta-Intro-Bootcamp/blob/main/exercises/pine_trees.ipynb)
 
 ## Turn in homework assignment
 
