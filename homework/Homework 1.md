@@ -68,7 +68,7 @@ PyRosetta is a Python-based interface to the Rosetta molecular modeling suite. I
 Now it is time to install PyRosetta into Google Colab. 
 
 1. Create a folder in your Google Drive for storing notebooks (this can be called anything you like). 
-2. Download this [notebook](01_00_How_to_Get_Started.ipynb) `01.00-How-to-Get-Started.ipynb` from your GitHub repository and upload it to your Google Drive folder. 
+2. Download this [notebook](https://github.com/Rosetta-REU-Code-School-2023/HW1/blob/main/01_00_How_to_Get_Started.ipynb) `01.00-How-to-Get-Started.ipynb` from your GitHub repository and upload it to your Google Drive folder. 
 3. Open the notebook in Google Colab and follow the instructions in it. 
 4. Notice that you have already completed Step 1 and Step 2 outlined in the notebook by following the instructions above. 
 5. For Step 3 in the notebook, when you run the cell you will be prompted to type a login/password pair. For this year's code school, the teaching team created a unique pair that you will use. 
