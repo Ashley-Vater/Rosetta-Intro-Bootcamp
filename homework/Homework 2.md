@@ -22,7 +22,7 @@ It should hopefully not come as a shock to anyone, but the PyRosetta+ML Code Sch
 
 You will complete this coding challenge in the [pine trees Colab notebook] (pine_trees.ipynb). This notebook has a set of instructions for you to follow.
 
-* [ ] Complete the [pine trees Colab notebook](pine_trees.ipynb)
+* [ ] Complete the [pine trees Colab notebook](exercises/pine_trees.ipynb)
 
 ## Turn in homework assignment
 
